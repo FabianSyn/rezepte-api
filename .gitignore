@@ -1,0 +1,10 @@
+
+# Installierte npm-Pakete werden nicht auf GitHub hochgeladen.
+node_modules/
+
+# Lokale Umgebungsdateien enthalten möglicherweise geheime Zugangsdaten.
+.env
+.env.*
+
+# Ausnahme für mögliche Beispiel-Umgebungsdateien.
+!.env.example
